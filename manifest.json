@@ -4,7 +4,7 @@
     "name": "Personal Site",
     "scope": "/",
     "display": "standalone",
-    "start_url": "mainpwa.html",
+    "start_url": "index.html",
     "short_name": "PruebaApp",
     "theme_color": "#db5945",
     "description": "Pagina para probar pwa",
